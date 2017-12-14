@@ -1,1 +1,2 @@
-# hello-world
+This is in my git hub learning ......
+will see when i will expertized in it
